@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dozi01
-- 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning React, Javascript
+- 👀 I’m interested in Robotics, computer vision
+- 🌱 I’m currently learning diffusion model
 - 📫 How to reach me ytooom018@naver.com
 
 <!---
