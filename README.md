@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dozi01
-- 👀 I’m interested in Robotics, computer vision
+- 👀 I’m interested in Multi Modal Large Language Model
 - 🌱 I’m currently learning diffusion model
 - 📫 How to reach me ytooom018@naver.com
 
